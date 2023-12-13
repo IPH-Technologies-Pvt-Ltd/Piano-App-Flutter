@@ -1,16 +1,20 @@
-# piano
+# Paino-App-Flutter
 
-A new Flutter project.
+## Description
+A simple and elegant piano app built with Flutter that allows users to play the piano on their mobile devices.
 
-## Getting Started
+## Features
+- Multi-touch support InProgress for playing multiple keys simultaneously.
+- Realistic piano sound simulation.
+- Responsive and user-friendly interface.
+- Support for landscape orientations only.
 
-This project is a starting point for a Flutter application.
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/https://github.com/IPH-Technologies-Pvt-Ltd/Piano-App-Flutter
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/IPH-Technologies-Pvt-Ltd/Piano-App-Flutter/assets/94104772/22e9a548-affe-453e-b66d-40e0e934aa89
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
